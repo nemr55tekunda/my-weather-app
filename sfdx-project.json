@@ -1,11 +1,18 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "path": "force-app",
+            "default": true,
+            "package": "experience-cloud-project",
+            "versionDescription": ""
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "54.0",
+    "packageAliases": {
+        "experience-cloud-project": "0HoP50000000eS5KAI"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "54.0"
 }
