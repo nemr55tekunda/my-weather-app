@@ -7,12 +7,21 @@
             "default": true,
             "package": "experience-cloud-project",
             "versionDescription": ""
+        },
+        {
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "path": "force-app",
+            "default": false,
+            "package": "req-actions",
+            "versionDescription": ""
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "54.0",
     "packageAliases": {
-        "experience-cloud-project": "0HoP50000000eS5KAI"
+        "experience-cloud-project": "0HoP50000000eS5KAI",
+        "req-actions": "0HogK0000001DPpSAM"
     }
 }
